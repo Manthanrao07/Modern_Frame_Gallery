@@ -1,4 +1,4 @@
-Name: Your Name
+Name: Manthan Rao
 
 Implemented Features:
 - Fixed navigation menu linking all pages
